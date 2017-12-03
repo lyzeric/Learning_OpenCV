@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Learning_OpenCV", "Learning_OpenCV\Learning_OpenCV.vcxproj", "{FB2C0512-D577-4E66-A237-FD5E7DDC4D41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20171203", "20171203", "{41C8C4BF-B27F-4CDE-8AC5-F97F06251E68}"
+	ProjectSection(SolutionItems) = preProject
+		Learning_OpenCV\201712031707.cpp = Learning_OpenCV\201712031707.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2C0512-D577-4E66-A237-FD5E7DDC4D41}.Debug|x64.ActiveCfg = Debug|x64
+		{FB2C0512-D577-4E66-A237-FD5E7DDC4D41}.Debug|x64.Build.0 = Debug|x64
+		{FB2C0512-D577-4E66-A237-FD5E7DDC4D41}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB2C0512-D577-4E66-A237-FD5E7DDC4D41}.Debug|x86.Build.0 = Debug|Win32
+		{FB2C0512-D577-4E66-A237-FD5E7DDC4D41}.Release|x64.ActiveCfg = Release|x64
+		{FB2C0512-D577-4E66-A237-FD5E7DDC4D41}.Release|x64.Build.0 = Release|x64
+		{FB2C0512-D577-4E66-A237-FD5E7DDC4D41}.Release|x86.ActiveCfg = Release|Win32
+		{FB2C0512-D577-4E66-A237-FD5E7DDC4D41}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
