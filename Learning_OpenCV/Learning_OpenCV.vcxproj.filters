@@ -18,5 +18,35 @@
     <ClCompile Include="201712031707.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="201712032216.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201712041010.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201712041024.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201712041047.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201712041308.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201712041314.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="camshiftdemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="opticalflow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ikdemo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="objectDetection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
