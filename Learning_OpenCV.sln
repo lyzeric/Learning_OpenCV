@@ -5,25 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Learning_OpenCV", "Learning_OpenCV\Learning_OpenCV.vcxproj", "{FB2C0512-D577-4E66-A237-FD5E7DDC4D41}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20171203", "20171203", "{41C8C4BF-B27F-4CDE-8AC5-F97F06251E68}"
-	ProjectSection(SolutionItems) = preProject
-		Learning_OpenCV\201712031707.cpp = Learning_OpenCV\201712031707.cpp
-		Learning_OpenCV\201712032216.cpp = Learning_OpenCV\201712032216.cpp
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20171204", "20171204", "{2F41907A-BFF6-446C-94B9-CA75CE3F65A7}"
-	ProjectSection(SolutionItems) = preProject
-		Learning_OpenCV\201712041010.cpp = Learning_OpenCV\201712041010.cpp
-		Learning_OpenCV\201712041024.cpp = Learning_OpenCV\201712041024.cpp
-		Learning_OpenCV\201712041047.cpp = Learning_OpenCV\201712041047.cpp
-		Learning_OpenCV\201712041308.cpp = Learning_OpenCV\201712041308.cpp
-		Learning_OpenCV\201712041314.cpp = Learning_OpenCV\201712041314.cpp
-		Learning_OpenCV\camshiftdemo.cpp = Learning_OpenCV\camshiftdemo.cpp
-		Learning_OpenCV\ikdemo.cpp = Learning_OpenCV\ikdemo.cpp
-		Learning_OpenCV\objectDetection.cpp = Learning_OpenCV\objectDetection.cpp
-		Learning_OpenCV\opticalflow.cpp = Learning_OpenCV\opticalflow.cpp
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

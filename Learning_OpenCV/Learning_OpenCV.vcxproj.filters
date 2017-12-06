@@ -15,37 +15,43 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="201712031707.cpp">
+    <ClCompile Include="20171203\201712031707.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="201712032216.cpp">
+    <ClCompile Include="20171203\201712032216.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="201712041010.cpp">
+    <ClCompile Include="20171204\201712041010.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="201712041024.cpp">
+    <ClCompile Include="20171204\201712041024.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="201712041047.cpp">
+    <ClCompile Include="20171204\201712041047.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="201712041308.cpp">
+    <ClCompile Include="20171204\201712041308.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="201712041314.cpp">
+    <ClCompile Include="20171204\201712041314.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="camshiftdemo.cpp">
+    <ClCompile Include="20171204\camshiftdemo.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="opticalflow.cpp">
+    <ClCompile Include="20171204\ikdemo.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ikdemo.cpp">
+    <ClCompile Include="20171204\objectDetection.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="objectDetection.cpp">
+    <ClCompile Include="20171204\opticalflow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20171205\201712051118.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20171205\201712051427.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
